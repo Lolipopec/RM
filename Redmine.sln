@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redmine", "Redmine.csproj", "{B66D91F0-EAF8-4B46-AACD-8A2F92813580}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B66D91F0-EAF8-4B46-AACD-8A2F92813580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B66D91F0-EAF8-4B46-AACD-8A2F92813580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B66D91F0-EAF8-4B46-AACD-8A2F92813580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B66D91F0-EAF8-4B46-AACD-8A2F92813580}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD3D04F4-A8B5-49C8-A685-DCD5AA07FB67}
+	EndGlobalSection
+EndGlobal

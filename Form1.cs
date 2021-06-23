@@ -30,7 +30,7 @@ namespace Redmine
                 var password = "12345678";
                 var a = new RedmineManager(host, login, password);
                 User currentUser = a.GetCurrentUser();
-                Debug.WriteLine("Current user: {0}.", currentUser.FirstName);
+                //Debug.WriteLine("Current user: {0}.", currentUser.FirstName);
                 Menu m = new Menu(login, password);
                 m.Show();
                 this.Hide();

@@ -41,6 +41,7 @@ namespace Redmine
                 dataGridView1.Rows[i].Cells[3].Value = issue.AssignedTo.Name;
                 //XmlReader reader =  ;
                 //issue.ReadXml();
+                Project
                 i++;
             }
         }
